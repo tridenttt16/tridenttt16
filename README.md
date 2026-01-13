@@ -16,8 +16,4 @@ Full Stack Java developer — building reliable backend systems and scalable mic
 
 > Professional • Friendly • Concise
 
-## 🔭 Selected Projects
-_(Add your projects here — name, 1–2 line description, and repo or demo link)_
 
-- [Project Placeholder](https://github.com/yourusername/project) — short description of what it does
-- [Project Placeholder](https://github.com/yourusername/project) — short description of what it does
